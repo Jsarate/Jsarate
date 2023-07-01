@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jsarate
-- 👀 I’m interested in Analytics
-- 🌱 I’m currently learning sql and python 
-- 💞️ I’m looking to collaborate with individuals 
-- 📫 How to reach me jagdishwiz12@gmail.com
+- You can contact me on jagdishwiz12@gmail.com
+  
+SQL files
 
 <!---
 Jsarate/Jsarate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
